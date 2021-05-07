@@ -1,7 +1,6 @@
 ---
 title: "Post: Quote"
 categories:
-  - research
   - galaxy morphology
 tags:
   - Post Formats
