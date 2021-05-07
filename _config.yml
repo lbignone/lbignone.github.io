@@ -113,7 +113,7 @@ defaults:
       share: true
       related: true
       show_date: true
-      class: wide
+      classes: wide
   # _pages
   - scope:
       path: "_pages"
@@ -121,7 +121,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      class: wide
+      classes: wide
   # _research
   - scope:
       path: ""
@@ -129,7 +129,7 @@ defaults:
     values:
       layout: category
       author_profile: true
-      class: wide
+      classes: wide
 
 category_archive:
   type: liquid
