@@ -1,11 +1,11 @@
 main:
-  - title: "About"
+  - title: '<i class="fas fa-fw fa-hat-wizard'></i> About me"
     url: /about/
   - title: "<i class='fas fa-fw fa-flask'></i> Research"
     url: /research/
-  - title: "Publications"
+  - title: "<i class='fas fa-fw fa-paper-plane'></i> Publications"
     url: /publications/
-  - title: "Outreach"
+  - title: "<i class='fas fa-fw fa-bullhorn'></i> Outreach"
     url: /outreach/
-  - title: "<i class='fas fa-fw fa-satellite-dish'> </i>Contact"
+  - title: "<i class='fas fa-fw fa-satellite-dish'></i> Contact"
     url: /contact/
