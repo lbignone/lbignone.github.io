@@ -1,8 +1,8 @@
 ---
 title: "Post: Quote"
-permalink: /research/blog/post-quote
 categories:
-  - Blog
+  - research
+  - galaxy morphology
 tags:
   - Post Formats
   - quote
