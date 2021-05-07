@@ -1,5 +1,6 @@
 ---
 title: "Post: Quote"
+permalink: /research/blog/post-quote
 categories:
   - Blog
 tags:
