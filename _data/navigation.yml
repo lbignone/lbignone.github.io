@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "<i class="fas fa-fw fa-flask"></i> Research"
+  - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
