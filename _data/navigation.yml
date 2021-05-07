@@ -1,5 +1,5 @@
 main:
-  - title: "<i class='fas fa-fw fa-hat-wizard'></i> About me"
+  - title: "About me"
     url: /about/
   - title: "<i class='fas fa-fw fa-flask'></i> Research"
     url: /research/
