@@ -2,5 +2,5 @@
 title: "Research"
 layout: category
 permalink: /research/
-taxonomy: research
+taxonomy: featured research
 ---
