@@ -1,6 +1,6 @@
 ---
-permalink: /research/
 title: "Research"
 layout: category
+permalink: /research/
 ---
-saedf wsef 
+saedf wsef as da
