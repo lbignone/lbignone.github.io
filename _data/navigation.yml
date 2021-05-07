@@ -5,5 +5,3 @@ main:
     url: /publications/
   - title: "<i class='fas fa-fw fa-bullhorn'></i> Outreach"
     url: /outreach/
-  - title: "<i class='fas fa-fw fa-satellite-dish'></i> Contact"
-    url: /contact/
