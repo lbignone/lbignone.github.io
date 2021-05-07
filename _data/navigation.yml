@@ -7,5 +7,5 @@ main:
     url: /publications/
   - title: "Outreach"
     url: /outreach/
-  - title: "<i class='fas fa-satellite-dish'></i>Contact"
+  - title: "<i class='fas fa-fw fa-satellite-dish'> </i>Contact"
     url: /contact/
