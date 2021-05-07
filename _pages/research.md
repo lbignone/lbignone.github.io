@@ -1,6 +1,6 @@
 ---
-title: "Research"
-layout: category
+title: Research
+layout: collection
 permalink: /research/
-taxonomy: featured research
+collection: research
 ---
