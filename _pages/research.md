@@ -1,5 +1,5 @@
 ---
 permalink: /research/
-title: "Rasearch"
+title: "Research"
 layout: category
 ---
