@@ -1,6 +1,4 @@
 main:
-  - title: "About me"
-    url: /about/
   - title: "<i class='fas fa-fw fa-flask'></i> Research"
     url: /research/
   - title: "<i class='fas fa-fw fa-paper-plane'></i> Publications"
