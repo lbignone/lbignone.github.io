@@ -60,7 +60,7 @@ plugins:
 author:
   # name   : "Lucas Bignone"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "My awesome biography constrained to a sentence or two goes here. <a href='/about/' class='btn btn--primary'>Learn more</a>"
   location: "Buenos Aires, Argentina"
   links:
     # - label: "Website"
