@@ -1,27 +1,44 @@
-# Minimal Mistakes remote theme starter
+# Personal site
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Theme based
+on [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes)
+.
 
-Contains basic configuration to get you a site with:
+For detailed instructions on how to configure, customize, add/migrate content,
+and more read
+the [theme's documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+.
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Featured Research
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Featured research that will appear in [research](https://lbignone.github.io/research)
+go into the `_research` collection. The default layout is `layout: archive`,
+which displays posts filed under the category specified by `taxonomy`. A sample
+featured research post looks like this:
 
+```markdown 
+---
+title: Galaxy morphology
+excerpt: Foo Bar design system including logo mark, website design, and branding applications.
+taxonomy: galaxy morphology
 ---
 
-## Troubleshooting
+<content>
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+## Updates
+---
+```
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+The last two lines separate the content from the list of posts.
+
+## Publications
+
+To be showcased in [publications](https://lbignone.github.io/publications) a 
+post must
+be filed under the category `publications`.
+
+## Outreach
+
+To be showcased in [outreach](http://lbignone.github.io/outreach) a post 
+must be filed
+under the category `outreach`.
