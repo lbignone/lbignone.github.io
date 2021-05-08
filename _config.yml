@@ -133,7 +133,7 @@ defaults:
       classes: wide
 
 category_archive:
-  type: jekyll-archives
+  type: liquid
   path: /categories/
 tag_archive:
   type: liquid
