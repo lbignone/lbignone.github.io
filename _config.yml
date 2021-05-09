@@ -139,7 +139,7 @@ tag_archive:
   path: /tags/
 
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
     tracking_id: "G-GNJLP2SG07"
     anonymize_ip: false # default
